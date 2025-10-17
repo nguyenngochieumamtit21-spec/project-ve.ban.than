@@ -1,0 +1,44 @@
+.image-container {
+  text-align: center; /* canh giữa ảnh và chữ */
+  margin-top: 20px;
+}
+
+.image-container img {
+  max-width: 500px;
+  height: auto;
+}
+
+.caption {
+  font-size: 18px; /* chữ nhỏ */
+  color: rgba(0, 0, 0, 0.7); /* màu đen nhưng độ mờ 50% */
+  font-style: italic; /* chữ nghiêng nhẹ */
+  margin-top: 8px; /* cách ảnh 1 chút */
+}
+.ảnh-HaUI {
+  text-align: center; /* canh giữa ảnh và chữ */
+  margin-top: 20px;
+}
+.ảnh-HaUI img {
+  width: auto;
+  height: 500px;
+}
+
+.caption1 {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.7);
+  margin-top: 8px;
+}
+.image-HuongKhe {
+  text-align: center;
+  margin-top: 20px;
+}
+.image-HuongKhe img {
+  width: auto;
+  height: 500px;
+}
+.caption2 {
+  font-size: 18px;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.7);
+  margin-top: 8px;
+}
