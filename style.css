@@ -61,7 +61,7 @@
   color: rgba(0, 0, 0, 0.7);
 }
 .anh-1 {
-  width: 980px;
+  width: 800px;
   height: auto;
 }
 .anh-2 {
@@ -86,10 +86,17 @@
   width: 600px;
   margin: 0 auto;
   line-height: 1.3;
-  font-size:25px;
+  font-size: 25px;
 }
 .a2 {
-  text-align:justify;
+  text-align: justify;
+  width: 600px;
+  margin: 0 auto;
+  line-height: 1.3;
+  font-size: 25px;
+}
+.a3 {
+  text-align: justify;
   width: 600px;
   margin: 0 auto;
   line-height: 1.3;
